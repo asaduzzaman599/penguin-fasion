@@ -13,5 +13,5 @@ body {
 
 .header-part {
     background: #FFFBF0;
-    min-height: calc(100vh - 3.5rem);
+    /* min-height: calc(100vh - 3.5rem); */
 }
